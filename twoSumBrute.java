@@ -7,13 +7,9 @@ class Solution {
                 result[0] = i;
                 result[1] = j;
                 break;
-            }
-            }
-            
-            
+                }
+            }  
         }
         return result;
     }
-
-
 }
